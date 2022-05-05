@@ -1,0 +1,12 @@
+body
+{
+	background: linear-gradient( aqua, yellow)
+}
+
+	.login_div1 , .login_div2
+	{
+		background: linear-gradient(green,purple)
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
